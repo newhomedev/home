@@ -4,4 +4,8 @@
     "avatarUrl":"https://pic.52112.com/180201/Beautiful_Landscapes/3WoI6DMgBD.jpg",
     "GMEEK_VERSION":"last"
     "allHead":"mo"
+    "themeMode":"fix",
+    "dayTheme":"dark",
+    "nightTheme":"dark-blue",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
 }
